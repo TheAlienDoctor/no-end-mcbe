@@ -1,9 +1,9 @@
 ﻿{
     "format_version": 2,
     "header": {
-        "description": "§rPACK DESCRIPTION | §3 © TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
-        "name": "§1§lAlien's§r §ePack name §4(BP/RP-V1.0.0)§r",
-        "uuid": "UUID1 HERE",
+        "description": "§rStops players from being able to enter The End. | §3 © TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
+        "name": "§1§lAlien's§r §eNo End §4(BP-V1.0.0)§r",
+        "uuid": "7171b7eb-7833-49ae-bedf-feebf680753f",
         "version": [
             1,
             0,
@@ -17,9 +17,9 @@
     },
     "modules": [
         {
-            "description": "§rPACK DESCRIPTION | §3 © TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
-            "type": "resources | data",
-            "uuid": "UUID2 HERE",
+            "description": "§rStops players from being able to enter The End. | §3 © TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
+            "type": "data",
+            "uuid": "97295e2f-f38b-4836-8518-339c7813ca84",
             "version": [
                 1,
                 0,
